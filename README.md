@@ -32,4 +32,4 @@
 </ul>
 
 <h2>👨‍💻 Author</h2>
-<p>Developed by [Your Name] | For academic and ethical research purposes</p>
+<p>Developed by likith N | For academic and ethical research purposes</p>
